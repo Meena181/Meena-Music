@@ -91,6 +91,7 @@ h4{
     align-items: center;
     padding-left: 30px;
     padding-right: 30px;
+	cursor:pointer;
 }
 
 .main{
@@ -106,6 +107,9 @@ footer{
     width: 100vw;
 }
 	
+nav{
+	cursor:pointer;
+}
 	
 	
 	
